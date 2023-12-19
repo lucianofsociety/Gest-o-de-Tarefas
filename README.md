@@ -15,19 +15,12 @@ Sistema de autenticação básico para controle de usuário e acesso á aplicaç
 
 ### Como foi a base do site em Mockup.
 
-![image](https://github.com/lucianofsociety/Gest-o-de-Tarefas/assets/106563026/701ba862-87fd-4e49-93fd-58d4a0bc3afc)
-
-
-![image](https://github.com/lucianofsociety/Gest-o-de-Tarefas/assets/106563026/2f96c103-0af7-4991-a77b-4d720ad23c8c)
-
-![image](https://github.com/lucianofsociety/Gest-o-de-Tarefas/assets/106563026/e73b12c8-9a1c-463a-b19a-849a95360e28)
-
-![image](https://github.com/lucianofsociety/Gest-o-de-Tarefas/assets/106563026/8494cc91-d7ea-4cfb-b081-ed1ab046a3f0)
-
-![image](https://github.com/lucianofsociety/Gest-o-de-Tarefas/assets/106563026/e90c4645-7550-48cb-8a61-8228b78885c4)
-
-![image](https://github.com/lucianofsociety/Gest-o-de-Tarefas/assets/106563026/b95fe70f-9479-421d-a477-ec179cd2fcf5)
-
+<img src="/GEST_TAREFAS-main/GTAREFAS/img/mockup/Login-1.jpg" width="30%"/>
+<img src="/GEST_TAREFAS-main/GTAREFAS/img/mockup/Login-2.jpg" width="30%"/>
+<img src="/GEST_TAREFAS-main/GTAREFAS/img/mockup/Login-3.jpg" width="30%"/>
+<img src="/GEST_TAREFAS-main/GTAREFAS/img/mockup/Login-4.jpg" width="30%"/>
+<img src="/GEST_TAREFAS-main/GTAREFAS/img/mockup/Login-5.jpg" width="30%"/>
+<img src="/GEST_TAREFAS-main/GTAREFAS/img/mockup/Login-6.jpg" width="30%"/>
 
 
 #### Como foi a construção no Banco de Dados.
