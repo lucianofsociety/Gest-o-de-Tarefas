@@ -2,15 +2,13 @@
 session_start();
 include './config/config.php';
 include './classes/user.php';
-include './classes/Tarefa.php';
 
 $user = new User($conn);
 $data = $user->read();
 ?>
 
-
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 
 <head>
     <meta charset="UTF-8">
@@ -22,10 +20,10 @@ $data = $user->read();
     <table style="border: 1px solid black" class="tabela">
         <thead>
             <tr>
-                <th> ID</th>
-                <th> Nome</th>
-                <th> Sexo</th>
-                <th> Alterar</th>
+                <th>ID</th>
+                <th>Nome</th>
+                <th>Sexo</th>
+                <th>Alterar</th>
             </tr>
         </thead>
         <tbody>
@@ -45,6 +43,6 @@ $data = $user->read();
             <?php } ?>
         </tbody>
     </table>
+    <a href="dashboard-adm.php"><button>Voltar</button></a>
 </body>
-
 </html>

@@ -2,18 +2,8 @@
 class Tarefa {
     private $conn;
 
-
     function __construct($conn) {
         $this->conn = $conn;
-    }
-
-    public function read()
-    {
-        $query = "SELECT * FROM  tbtarefa";
-        $stmt = $this->conn->prepare($query);
-        $stmt->execute();
-        
-        return $stmt;
     }
 
     public function readEdits($id)
@@ -25,7 +15,15 @@ class Tarefa {
         return $stmt;
     }
 
-    public function readEd($id)
+    public function readEd()
+    {
+        $query = "SELECT * FROM tbuser INNER JOIN tbtarefa ON tbtarefa.fk_idusu = tbuser.id;";
+        $stmt = $this->conn->prepare($query);
+        $stmt->execute();
+        return $stmt;
+    }
+
+    public function readEdes($id)
     {
         $query = "SELECT * FROM tbtarefa WHERE fk_idusu = :fk_idusu";
         $stmt = $this->conn->prepare($query);
