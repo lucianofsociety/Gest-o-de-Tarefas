@@ -36,8 +36,7 @@ Sistema de autenticação básico para controle de usuário e acesso á aplicaç
 
 ##### Dump do Banco.
 
-https://github.com/lucianofsociety/GEST_TAREFAS-main/GTAREFAS/dump_mysql/bdprofin.sql
-Ja tera um usuario adm no banco, a senha padrao é "666".
+
 
 
 ######🔨 Ferramentas.
