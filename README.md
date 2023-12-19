@@ -1,5 +1,7 @@
 # Gest-o-de-Tarefas
-Aplicação de Gestão de Tarefas integrada com uma API Externa
+Aplicação de Gestão de Tarefas integrada com uma API Externa.
+Sistema de autenticação básico para controle de usuário e acesso á aplicação.
+
 ----------------------------------------------------------------------------
 
 # Bem Vindo!
