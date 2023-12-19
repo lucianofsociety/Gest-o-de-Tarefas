@@ -15,7 +15,7 @@ Sistema de autenticação básico para controle de usuário e acesso á aplicaç
 
 ### Como foi a base do site em Mockup.
 
- ![image](https://github.com/lucianofsociety/Gest-o-de-Tarefas/assets/106563026/fa282afe-69f5-47fb-bee0-3bab50dd6be9)
+ ![image](https://github.com/lucianofsociety/Gest-o-de-Tarefas/GEST_TAREFAS/GTAREFAS/img/mockup)
 
 ![image](https://github.com/lucianofsociety/Gest-o-de-Tarefas/assets/106563026/2f96c103-0af7-4991-a77b-4d720ad23c8c)
 
